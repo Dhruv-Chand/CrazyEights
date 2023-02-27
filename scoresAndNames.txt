@@ -1,0 +1,9 @@
+harsha, 1
+ben, 2
+jath, 1
+sena, 10
+sdkf, 5
+asd, 4
+sda, 15
+asda, 30
+asddf, 12
